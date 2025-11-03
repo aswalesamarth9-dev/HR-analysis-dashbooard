@@ -27,6 +27,7 @@ This dashboard was created using the following tools and technologies:
 * **Data Source:** *(Modify this placeholder to describe your data source, e.g., SQL Database, Excel, CSV files, etc.)*
 * **M (Power Query):** Used for data connection, transformation, and cleaning.
 * **DAX (Data Analysis Expressions):** Used for creating custom measures and calculated columns to derive deeper insights.
+* preview screenshot : HR ANALYSIS PREVIEW https://github.com/aswalesamarth9-dev/HR-analysis-dashbooard/blob/main/HR%20analysis%20Dashboard.pbit
 
 ## 🏃 Getting Started
 
