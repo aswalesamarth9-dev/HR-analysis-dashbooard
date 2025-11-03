@@ -23,8 +23,7 @@ The dashboard visualizes and analyzes several key areas of HR, including:
 This dashboard was created using the following tools and technologies:
 
 * **Power BI Desktop:** The primary tool for data modeling, visualization, and report creation.
-    * *File Type:* **`.pbit` (Power BI Template)**
-* **Data Source:** *(Modify this placeholder to describe your data source, e.g., SQL Database, Excel, CSV files, etc.)*
+    * *File Type: https://github.com/aswalesamarth9-dev/HR-analysis-dashbooard/blob/main/HR%20analysis%20Dashboard.pbit
 * **M (Power Query):** Used for data connection, transformation, and cleaning.
 * **DAX (Data Analysis Expressions):** Used for creating custom measures and calculated columns to derive deeper insights.
 * preview screenshot : HR ANALYSIS PREVIEW https://github.com/aswalesamarth9-dev/HR-analysis-dashbooard/blob/main/HR%20analysis%20Dashboard.pbit
@@ -41,7 +40,7 @@ You need **Power BI Desktop** installed on your machine to open and interact wit
     ```bash
     git clone [Your Repository URL]
     ```
-2.  **Open the Template:** Double-click the **`HR analysis Dashboard.pbit`** file.
+2.  **Open the Template:
 3.  **Connect to Data:** Power BI will prompt you to enter the parameters for your data source (if any are defined in the template). If the data is included within the template, it should load automatically.
 4.  **Refresh Data:** Once connected, ensure the data is up-to-date by clicking the **Refresh** button on the Home tab.
 5.  **Explore:** Start exploring the interactive visuals and filtering the data to gain insights!
@@ -56,4 +55,3 @@ You need **Power BI Desktop** installed on your machine to open and interact wit
 
 Contributions are welcome! If you have suggestions for new metrics, better visualizations, or improvements to the data model, please feel free to open an issue or submit a pull request.
 
-## 📂 Repository Structure
